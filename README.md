@@ -1,0 +1,1 @@
+Hi! This is my first attempt at making a website! i am adding random elements to practice and tinkering with CSS
