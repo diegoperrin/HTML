@@ -1,0 +1,26 @@
+* {
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.big-title {   
+    color: cornflowerblue;
+    text-decoration: skyblue;
+    text-align: center;
+    font-size: 40px;
+    
+}
+
+.intro {
+    display: block ; 
+    text-align: center;
+}
+.subsection-1 {
+    display: inline-block;
+  
+}
+#killua {
+    width: 400px;
+    height: 175px;
+    margin: 20px;
+ 
+
+}
