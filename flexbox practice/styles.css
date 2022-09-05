@@ -69,7 +69,7 @@
 
 .footer {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
 
 }
 
@@ -81,11 +81,13 @@
 }
 
 .footer-three {
-    flex: 3;
+    flex: auto;
 }
 
 .footer-one, .footer-three {
     background-color: #5995DA;
-    flex: initial;
-    width: 300px;
+    flex: auto;
+
 }
+
+/* you can change flex from row to column using flex-direction *\
